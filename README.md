@@ -15,7 +15,7 @@ Multiple Deep Learning networks have been applied and compared, leading to a rat
 ## Table of Contents 
 - [Work in progress](#work_in_progress)
 
-<img src="https://github.com/FiorenSt/AutoSourceID-Classification/Plots/Hyper.png " width=50% height=50%> 
+<img src="D:\GitHub Projects\AutoSourceID-Classification\Plots\Hyper.png" width=50% height=50%> 
 
 
 # Work in progress
