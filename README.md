@@ -1,1 +1,23 @@
-# ASID-C
+<img src=https://see.fontimg.com/api/renderfont4/KpAp/eyJyIjoiZnMiLCJoIjo0MywidyI6MTAwMCwiZnMiOjQzLCJmZ2MiOiIjNjg5M0VCIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/QXV0b1NvdXJjZUlELUNsYXNzaWZpY2F0aW9u/kg-second-chances-sketch.png>
+
+
+<!--
+<img src="https://github.com/FiorenSt/AutoSourceID-Light/blob/main/Plots/OpticalImagePatch.png " width=50% height=50%><img src="https://github.com/FiorenSt/AutoSourceID-Light/blob/main/Plots/LoGOnOptical.png " width=50% height=50%> 
+-->
+
+
+# Description
+ASID-C is an algorithm for the classificatio of stars and galaxies in single band optical images. 
+ASID-C uses cutouts of 32x32 pixels of sources localized by AutoSourceID-Light (ASID-L) and assignes a calibrated probability to belong to either class.
+Multiple Deep Learning networks have been applied and compared, leading to a rather surpirsing result: a vanilla convolutional neural network (CNN) most best performing network.
+
+
+## Table of Contents 
+- [Work in progress](#work in progress)
+
+
+# Work in progress
+
+The hyperparameter space is being explored with the help of the great Weights and Biases software and soon a paper will be released to show the results and compare it to the available methods.
+
+
