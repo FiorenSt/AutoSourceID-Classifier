@@ -1,4 +1,4 @@
-<img src=https://see.fontimg.com/api/renderfont4/KpAp/eyJyIjoiZnMiLCJoIjo1NywidyI6MTAwMCwiZnMiOjU3LCJmZ2MiOiIjOTBCMEY1IiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/QXV0b1NvdXJjZUlELUNsYXNzaWZpY2F0aW9u/kg-second-chances-sketch.png>
+<img src=https://see.fontimg.com/api/renderfont4/KpAp/eyJyIjoiZnMiLCJoIjo1NywidyI6MTAwMCwiZnMiOjU3LCJmZ2MiOiIjMzFBMEVCIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/QXV0b1NvdXJjZUlELUNsYXNzaWZpY2F0aW9u/kg-second-chances-sketch.png>
 
 
 <!--
