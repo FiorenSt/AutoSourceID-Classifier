@@ -15,11 +15,10 @@ Multiple Deep Learning networks have been applied and compared, leading to a rat
 ## Table of Contents 
 - [Work in progress](#work_in_progress)
 
-<img src="D:\GitHub Projects\AutoSourceID-Classification\Plots\Hyper.png" width=50% height=50%> 
-
 
 # Work in progress
 
 The hyperparameter space is being explored with the help of the great Weights and Biases software and soon a paper will be released to show the results and compare it to the available methods.
 
 
+<img src="D:\GitHub Projects\AutoSourceID-Classification\Plots\Hyper.png" width=50% height=50%> 
