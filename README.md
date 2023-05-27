@@ -7,7 +7,7 @@
 
 
 # Description
-ASID-C is an algorithm for the classificatio of stars and galaxies in single band optical images. 
+ASID-C is an algorithm for the classification of stars and galaxies in single band optical images. 
 ASID-C uses cutouts of 32x32 pixels of sources localized by AutoSourceID-Light (ASID-L) and assignes a calibrated probability to belong to either class.
 Multiple Deep Learning networks have been applied and compared, leading to a rather surpirsing result: a vanilla convolutional neural network (CNN) is the best suited for the task.
 
